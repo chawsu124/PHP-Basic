@@ -1,0 +1,23 @@
+[
+    {
+        "id" : "1",
+        "name": "WaiferKolar",
+        "creator": "2",
+        "email": "waifer@gmail.com",
+        "password": "123"
+    },
+    {
+        "id" : "2",
+        "name": "Aye Aye",
+        "creator": "1",
+        "email": "aye@gmail.com",
+        "password": "123"
+    },
+    {
+        "id" : "3",
+        "name": "Su",
+        "creator": "2",
+        "email": "su@gmail.com",
+        "password": "123"
+    }
+]

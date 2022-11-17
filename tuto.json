@@ -1,0 +1,17 @@
+[
+    {
+        "subject_id" : 1,
+        "title" : "HTML",
+        "created_by" : "waifer"
+    },
+    {
+        "subject_id" : 2,
+        "title" : "CSS",
+        "created_by" : "waifer"
+    },
+    {
+        "subject_id" : 3,
+        "title" : "JAVA",
+        "created_by" : "waifer"
+    }
+]
