@@ -1,0 +1,11 @@
+--------psr-4 autoload ----------
+It is no need to declare of require_once " .php" files you need in your pj
+It only need to declare "autoload.php" file in this folder "vendor"
+
+
+How to received it "autoload.php" file in this folder "vendor" ?
+Firstly, you need to install "Composer-Setup.exe" file from https://composer.org
+and then, after installation step, test "composer" command in your command prompt
+and open terminal into your project folder, run this command "composer dump-autoload -o"
+if it is OK, Generating vendor folder having autoload.php file
+So the last one, you must use to declare this "autoload.php" file in this folder
